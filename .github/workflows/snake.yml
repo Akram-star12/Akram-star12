@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: huzaifaAhmad9
+          github_user_name: Akram-star12
           outputs: dist/snake.svg
 
       - name: Push snake animation to the repository
